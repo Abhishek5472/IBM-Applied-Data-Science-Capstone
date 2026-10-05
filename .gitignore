@@ -1,0 +1,11 @@
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+.env
+.venv
+env/
+venv/
+*.log
+my_data1.db
